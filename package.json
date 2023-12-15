@@ -1,0 +1,11 @@
+{
+  "name": "openai-console",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Allows you to chat with gpt in nodejs console.",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "openai": "^4.21.0"
+  }
+}
